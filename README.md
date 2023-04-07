@@ -26,8 +26,8 @@
 
 ** Descripcion
    -- Consiste en un juego donde tenemos 7 leds, al iniciar los leds comienzan en color azul al llegar al
-      extremo de la tira led espera 1seg a que el jugados presione el boton para continuar, en caso de
-      pasado el tiempo el juego nos muestra una led de color rejo y vuelve a iniciar el juego.
+      extremo de la tira led espera 1seg a que el jugador presione el boton para continuar, en caso de
+      pasado el tiempo sin presionar el boton, el juego nos muestra una led de color rojo y vuelve a iniciar el juego.
 
 ** Tecnologias utilizadas
    .Arduino
